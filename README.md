@@ -33,7 +33,7 @@
 
 ## Projects
 
-**Business Management Platform** &nbsp;·&nbsp; [About](https://www.luminair.company/project/business-manager) &nbsp;·&nbsp; [Live App](https://manager.luminair.company/login?demo=true)
+**Business Management Platform** &nbsp;·&nbsp; [Live App](https://manager.luminair.company/login?demo=true)
 
 Multi-tenant SaaS platform managing 12+ business resources including products, services, customers, billings and more. Built with RBAC/ABAC enforced at both the functional and interface level.
 
