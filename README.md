@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fahad012345/fahad012345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fahad Khan
+### Senior Software & System Engineer
 
-Here are some ideas to get you started:
+3+ years shipping production web apps and AI systems from system design and data modeling to deployment. I build things that work, scale, and are powerful enough to matter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Email](https://img.shields.io/badge/fahad04648%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fahad04648@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/fahad012345)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/fahad12345)
+[![Phone](https://img.shields.io/badge/%2B92_336_0317468-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+923360317468)
+
+</div>
+
+---
+
+## Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft_Azure-0089D6?style=flat-square&logo=msazure&logoColor=white)](#)
+
+---
+
+## Projects
+
+**Business Management Platform** &nbsp;·&nbsp; [About](https://www.luminair.company/project/business-manager) &nbsp;·&nbsp; [Live App](https://manager.luminair.company/login?demo=true)
+
+Multi-tenant SaaS platform managing 12+ business resources including products, services, customers, billings and more. Built with RBAC/ABAC enforced at both the functional and interface level.
+
+---
+
+**AI Assistant Platform**
+
+Chatbot platform for deploying AI assistants on organization websites, serving users from both static knowledge bases and live external systems via RAG and dynamic tool calling.
+
+---
+
+## Additional Information
+
+**Languages:** Pashto *(native)* · Urdu *(fluent)* · English *(fluent)*
+
+**Location:** Peshawar, Khyber Pakhtunkhwa, Pakistan
