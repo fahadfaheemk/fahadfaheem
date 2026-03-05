@@ -3,7 +3,7 @@
 # Fahad Khan
 ### Senior Software & System Engineer
 
-3+ years shipping production web apps and AI systems from system design and data modeling to deployment. I build things that work, scale, and are powerful enough to matter
+3+ years building production web software and AI powered applications from system design and data modeling to deployment. I build things that work, scale, and are powerful enough to matter
 
 ---
 
