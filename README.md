@@ -1,7 +1,7 @@
 <div align="center">
 
 # Fahad Khan
-### Senior Software & System Engineer
+### Senior Software Engineer
 
 3+ years building production web software and AI powered applications from system design and data modeling to deployment. I build things that work, scale, and are powerful enough to matter
 
