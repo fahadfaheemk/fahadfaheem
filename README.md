@@ -31,20 +31,6 @@
 
 ---
 
-## Projects
-
-**Business Management Platform** &nbsp;·&nbsp; [Live App](https://manager.luminair.company/login?demo=true)
-
-Multi-tenant SaaS platform managing 12+ business resources including products, services, customers, billings and more. Built with RBAC/ABAC enforced at both the functional and interface level.
-
----
-
-**AI Assistant Platform**
-
-Chatbot platform for deploying AI assistants on organization websites, serving users from both static knowledge bases and live external systems via RAG and dynamic tool calling.
-
----
-
 ## Additional Information
 
 **Languages:** Pashto *(native)* · Urdu *(fluent)* · English *(fluent)*
